@@ -99,7 +99,7 @@ Query: "Find the ASCII values of characters in INDIA and then return sum of expo
 
 <b> Example Output </b>
 
-![](https://raw.githubusercontent.com/garima-mahato/ERA_V3/refs/heads/main/Session25/images/example_result.JPG)
+![](https://raw.githubusercontent.com/garima-mahato/AI_Math_Agent_Visual_Output/refs/heads/main/images/example_result.JPG)
 
 ## Installation
 
