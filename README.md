@@ -111,7 +111,7 @@ Query: "Find the ASCII values of characters in INDIA and then return sum of expo
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-math-agent.git
+git clone https://github.com/garima-mahato/AI_Math_Agent_Visual_Output.git
 
 # Install dependencies
 pip install -r requirements.txt
