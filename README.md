@@ -124,9 +124,8 @@ cp .env.example .env
 ## Project Structure
 ```
 .
-├── Session25/
-│   ├── talk2mcp.py      # Main application file
-│   ├── example2.py      # MCP server implementation
+├── talk2mcp.py      # Main application file
+├── example2.py      # MCP server implementation
 ├── requirements.txt
 └── README.md
 ```
@@ -209,7 +208,7 @@ sequenceDiagram
 ## Usage
 
 ```bash
-python Session25/talk2mcp.py
+python talk2mcp.py
 ```
 
 ## Demo
